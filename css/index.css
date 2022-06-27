@@ -4,3 +4,12 @@ body {
     background-color: #101010;
 }
 
+.title {
+    font-family: Arial
+    color: rgba(255, 255, 255, 0.85);
+    font-size: 2rem;
+    margin-top: 5rem;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}

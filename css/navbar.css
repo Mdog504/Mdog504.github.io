@@ -17,7 +17,10 @@
   color: black;
 }
 
+.topnav a.link {
+  color: rgba(255, 255, 255, 0.30)
+}
+
 .topnav a.active {
-  background-color: #c75d00;
-  color: white;
+  color: rgba(255, 255, 255, 0.85);
 }

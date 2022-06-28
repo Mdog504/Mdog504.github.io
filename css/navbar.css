@@ -5,6 +5,7 @@
 
 .topnav a {
   float: left;
+  display: block;
   color: #f2f2f2;
   text-align: center;
   padding: 14px 16px;
@@ -18,11 +19,15 @@
 }
 
 .topnav a.active {
-  background-color: #606160;
+  background-color: #c75d00;
   color: white;
 }
 
-//mobile stuff
+.topnav .icon {
+  display: none;
+}
+
+/*mobile stuff*/
 @media screen and (max-width: 600px) {
   .topnav a:not(:first-child) {display: none;}
   .topnav a.icon {

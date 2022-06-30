@@ -26,9 +26,9 @@ body {
 
 .paragraph {
     font-family: Arial, Sans-serif;
-    color: rgba(255, 255, 255, 0.60);
-    font-size: 100px;
-    margin-top: 1rem;
+    color: rgba(255, 255, 255, 0.70);
+    font-size: 32px;
+    margin-top: 64px;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
